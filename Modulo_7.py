@@ -2,7 +2,7 @@
 # ============================================================================
 import os
 import random
-import datetime
+from datetime import datetime 
 
 from Modulo_1 import (cifrado_cesar, descifrado_cesar, cifrado_recursivo, descifrado_recursivo)
 from Modulo_2 import (analizar_fuerza_contrasena)
